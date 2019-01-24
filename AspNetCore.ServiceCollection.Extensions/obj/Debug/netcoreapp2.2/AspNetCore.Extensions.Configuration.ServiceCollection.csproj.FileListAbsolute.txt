@@ -1,0 +1,9 @@
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/bin/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.deps.json
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/bin/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.dll
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/bin/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.pdb
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.csprojAssemblyReference.cache
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.csproj.CoreCompileInputs.cache
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.AssemblyInfoInputs.cache
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.AssemblyInfo.cs
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.dll
+/Users/i815722/Projects/AspNetCore.ServiceCollection.Extensions/AspNetCore.ServiceCollection.Extensions/obj/Debug/netcoreapp2.2/AspNetCore.Extensions.Configuration.ServiceCollection.pdb
